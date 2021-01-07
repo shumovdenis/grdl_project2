@@ -1,0 +1,5 @@
+rootProject.name = 'grdl_project'
+include 'db'
+include 'api'
+include 'service'
+
